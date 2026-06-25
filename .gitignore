@@ -1,0 +1,68 @@
+# ============================================================
+#  Xilinx Vivado — generated / working files
+#  Only HDL sources, testbenches and constraints are tracked.
+#  Everything Vivado regenerates on synthesis/sim is ignored.
+# ============================================================
+
+# Vivado project working & output directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.sdk/
+.Xil/
+.jobs/
+
+# Vivado project / checkpoint / bitstream artifacts
+*.xpr.backup
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.mcs
+*.prm
+
+# Logs, journals and backups
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+*.wdf
+*.vdi
+*.vds
+*.rpt
+*.rpx
+*.rlx
+*.dbg
+*.mem
+*.reloc
+*.rtti
+*.svtype
+*.type
+*.xdbg
+*.vdb
+*_[0-9]*.backup.*
+vivado_pid*.str
+webtalk*.jou
+webtalk*.log
+usage_statistics_webtalk.*
+
+# Synthesis/implementation status markers
+__synthesis_is_complete__
+.*.rst
+
+# ============================================================
+#  OS / editor cruft
+# ============================================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
